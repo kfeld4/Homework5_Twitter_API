@@ -6,9 +6,7 @@ import secret_data # file that contains OAuth credentials
 import nltk # uncomment line after you install nltk
 
 ## SI 206 - HW
-## COMMENT WITH:
 ## Your section day/time: Section 003, Wednesday 9AM
-## Any names of people you worked with on this assignment:
 
 #usage should be python3 hw5_twitter.py <username> <num_tweets>
 username = sys.argv[1]
